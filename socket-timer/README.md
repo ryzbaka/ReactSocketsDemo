@@ -1,4 +1,4 @@
-#Instruictions for running application
+# Instructions for running application
 
 * `npm install` installs all required packages.
 * `npm run start-server` starts the websocket sever on http://localhost:8000/.
